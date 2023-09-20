@@ -172,7 +172,7 @@ class Ui_MainWindow(object):
         self.comboBox_motors.setObjectName("comboBox_motors")
 
         self.label_title = QtWidgets.QLabel(self.centralwidget)
-        self.label_title.setGeometry(QtCore.QRect(20, 10, 261, 63))
+        self.label_title.setGeometry(QtCore.QRect(20, 10, 340, 63))
         font = QtGui.QFont()
         font.setPointSize(22)
         font.setBold(True)
@@ -780,7 +780,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "BuffCoating"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "Coating Machine"))
         self.button_stop.setText(_translate("MainWindow", "STOP"))
         self.label_function.setText(_translate("MainWindow", "Functions"))
         self.button_Left.setText(_translate("MainWindow", "Left"))
@@ -796,7 +796,7 @@ class Ui_MainWindow(object):
         self.label_motors_baudrate.setText(_translate("MainWindow", "BAUD RATE"))
         self.label_motors_port.setText(_translate("MainWindow", "Motors Port"))
         self.label_sensor_data.setText(_translate("MainWindow", "Sensors Data"))
-        self.label_title.setText(_translate("MainWindow", "BuffCoating"))
+        self.label_title.setText(_translate("MainWindow", "Coating Machine"))
         self.button_function_1.setText(_translate("MainWindow", "Full Function from Zero Point"))
         self.button_function_6.setText(_translate("MainWindow", "Empty"))
         self.label_incoming_message.setText(_translate("MainWindow", "Incoming Message"))
