@@ -1,4 +1,4 @@
-# "Industrial Buff Coating"
+# "Coating Machine"
 
 ## Objective:
 The primary objective of this project is to implement a precise coating technique within a controlled atmospheric environment.
