@@ -1,0 +1,5 @@
+![WhatsApp Image 2023-09-20 at 1 02 18 PM (1)](https://github.com/MoaRajj/Coating_Machine/assets/93192572/be1a6a96-d323-482d-a1e8-8a8a80e0f314)
+![WhatsApp Image 2023-09-20 at 1 02 18 PM (2)](https://github.com/MoaRajj/Coating_Machine/assets/93192572/98412125-01d1-4136-b4a7-b814633e00ff)
+![WhatsApp Image 2023-09-20 at 1 02 18 PM (3)](https://github.com/MoaRajj/Coating_Machine/assets/93192572/6fc047ab-15a5-4424-b390-18c660d20a2b)
+![WhatsApp Image 2023-09-20 at 1 02 19 PM (2)](https://github.com/MoaRajj/Coating_Machine/assets/93192572/b40c66e2-2600-4613-9e29-93e1764af3a8)
+![WhatsApp Image 2023-09-20 at 1 02 19 PM (3)](https://github.com/MoaRajj/Coating_Machine/assets/93192572/bcb63e39-faf8-4d4e-9337-31948243be63)
