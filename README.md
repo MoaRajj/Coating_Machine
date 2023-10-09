@@ -22,8 +22,6 @@ Addressing the challenge of simultaneously reading, writing, and running the mot
 
 Challenges extended beyond electronics and coding. Building the machine from scratch necessitated learning to operate diverse cutting machines like Universal Milling, Manual Lathes, and Horizontal Sawing. Furthermore, organizing, wiring, and constructing a safe electrical panel for the machine was a valuable skill acquired during this project.
 
-## Relevance:
-This project served as the catalyst for my deep-rooted passion for Automation and Control. Witnessing the culmination of hours and days of effort in a mechanism operating precisely as intended solidified my dedication to this field.
 ## Video:
 Click on the following image to watch the video :point_down: .
 <div align="center">
