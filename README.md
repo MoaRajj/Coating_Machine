@@ -31,24 +31,28 @@ Click on the following image to watch the video :point_down: .
 
 ## The Machine:
 <p align="center" width="100%">
-  <img width="49%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/f1ea2b74-e4f6-4679-a421-433144c9afef">
-  <img width="49%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/694fd780-0784-405c-a7b8-11f908986287">
-  <img width="100%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/3c70bd65-16b4-48d9-aab8-037fb876b3a4">
-  <img width="49%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/c67bad3e-958a-4854-a7bf-5ab420cdd817">
-  <img width="49%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/483f3f1e-7820-4d32-b32b-cc910c447a9d">
+  <img width="49%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/ead0b8ae-789f-4a89-abf3-f5b214b59780">
+  <img width="49%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/ef08b7e9-5da3-4675-8bed-819a188ddfd0">
+  <img width="100%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/904aebc2-48de-425a-8c07-211c2ee99e63">
+  <img width="49%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/42c5b5ad-2fc5-4338-b35a-eaee24774c3f">
+  <img width="49%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/46db259f-010f-40bf-972f-957ca37790a1">
 </p>
 
 ## The Electrical Box:
 <p align="center" width="100%">
-  <img width="32%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/3671bbec-19c7-4e05-a9fd-c9bcbd518298">
-  <img width="32%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/f11d3a59-f070-4bb8-a811-b006585a20a7">
-  <img width="32%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/87d1c1e0-75fc-4926-8596-0584621e1603">
-  <img width="100%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/f28f04cf-b73b-4c01-a2cd-1b3d169b4311">
-  <img width="32%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/7d3a183f-5a49-4a94-9aaa-d684988f3f0c">
-  <img width="32%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/c0ea499d-57cf-48e6-aaf8-6da997d6e39f">
-  <img width="32%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/37c132ee-df15-47d0-8d44-bb972d0fe1b5">
-  <img width="100%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/bc5cb97d-de9a-4614-a5f6-610d88a57396">
+  <img width="32%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/68522dd5-0d06-454a-a67b-301b247f839e">
+  <img width="32%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/b7e2f92a-96b9-4518-a948-fd2318378ce4">
+  <img width="32%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/854512c4-c020-4bea-bfe3-a2c06d476576">
+  <img width="100%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/44935144-129c-4adc-9662-117a5c6fd14e">
+  <img width="32%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/52d1c8bb-e6c3-40dd-8812-0ea8f305d82b">
+  <img width="32%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/8541f4a3-8073-4318-9bfe-5cec8382e189">
+  <img width="32%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/655ed1fb-2682-4776-bac4-f635e626d567">
+  <img width="100%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/9e3172ce-6052-4ac1-9c9c-e15d62f2aa08">
 </p>
 
 ## User Interface:
-<img width="100%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/fe29352f-111a-41f7-aa64-f440e3c5fad5">
+<img width="100%" src="https://github.com/MoaRajj/Coating_Machine/assets/93192572/f2b57448-e897-4359-ad77-f7040866f87f">
+
+
+
+
